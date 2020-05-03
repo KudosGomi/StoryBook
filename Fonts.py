@@ -1,0 +1,7 @@
+BUTTON_FONT = 'Helvetica 32 bold'
+TITLE_FONT = 'Helvetica 25 bold'
+NORM_FONT = 'Helvetica 18'
+EXIT_FONT = 'Helvetica 28'
+NEWSTORY_FONT = 'Courier 19 bold'
+OUTOUT_STORY_FONT = 'Times 17'
+THEEND_FONT = 'Denmark 25 bold'
