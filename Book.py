@@ -54,6 +54,7 @@ class StartApplication(Frame):
 
 book = Tk()
 book.title("My Story Application")
+book.geometry("{0}x{1}+0+0".format(book.winfo_screenwidth(), book.winfo_screenheight()))
 book.minsize(1000, 600)
 
 menuPage = MenuPage(book)
