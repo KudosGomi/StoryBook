@@ -1,4 +1,4 @@
-## Python Story Book Application for a Friend's Psychology CS Course. 📔👧🏽
+## Python Story Book Application for a Friend's Psychology CS Course 📔👧🏽
 
 A friend of mine who was majoring in pyshcology had to take a CS course for her degree plan.
 At the time she was very busy and had asked me to create a final project for her. 
